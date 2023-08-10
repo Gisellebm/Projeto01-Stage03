@@ -11,7 +11,7 @@ Pude aprender como criar formulários para capturar dados através da web, bem c
 
 <br/>
 
-![preview](crie_seu_evento.png)
+  ![preview](evento.png)
 
 ## Tecnologias
 
